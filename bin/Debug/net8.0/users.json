@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": "George",
+    "LastName": "Bluth",
+    "Email": "george.bluth@reqres.in",
+    "SourceId": 4
+  },
+  {
+    "FirstName": "Janet",
+    "LastName": "Weaver",
+    "Email": "janet.weaver@reqres.in",
+    "SourceId": 4
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Wong",
+    "Email": "emma.wong@reqres.in",
+    "SourceId": 4
+  },
+  {
+    "FirstName": "Eve",
+    "LastName": "Holt",
+    "Email": "eve.holt@reqres.in",
+    "SourceId": 4
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Morris",
+    "Email": "charles.morris@reqres.in",
+    "SourceId": 4
+  },
+  {
+    "FirstName": "Tracey",
+    "LastName": "Ramos",
+    "Email": "tracey.ramos@reqres.in",
+    "SourceId": 4
+  }
+]

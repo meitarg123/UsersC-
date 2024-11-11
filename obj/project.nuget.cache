@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4hLDGLz5SI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maita\\learnC#\\MyNewProject\\MyNewProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maita\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
